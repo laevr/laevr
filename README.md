@@ -1,5 +1,5 @@
 ## Hello :] 
-<img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="roses">
+<img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="roses" width="400">
 
 <!--
 **laevr/laevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
