@@ -1,4 +1,4 @@
-## ────────────────────────୨ৎ──────────────────────────
+## ─────────────────────────୨ৎ───────────────────────────
 <img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="tree" width="380"> <img src="https://github.com/laevr/laevr/blob/main/cat.jpg" alt="cat" width="203"> <img src="https://github.com/laevr/laevr/blob/main/rose.jpg" alt="rose" width="200">
 
 <h1 align="center">
