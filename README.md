@@ -1,5 +1,5 @@
 ## Hello :] 
-<img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="tree" width="450"> <img src="https://github.com/laevr/laevr/blob/main/cat.jpg" alt="cat" width="243"> <img src="https://github.com/laevr/laevr/blob/main/rose.jpg" alt="rose" width="240">
+<img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="tree" width="420"> <img src="https://github.com/laevr/laevr/blob/main/cat.jpg" alt="cat" width="223"> <img src="https://github.com/laevr/laevr/blob/main/rose.jpg" alt="rose" width="220">
 
 
 <!--
