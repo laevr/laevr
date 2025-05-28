@@ -2,7 +2,7 @@
 <img src="https://github.com/laevr/laevr/blob/main/tree.jpg" alt="tree" width="380"> <img src="https://github.com/laevr/laevr/blob/main/cat.jpg" alt="cat" width="203"> <img src="https://github.com/laevr/laevr/blob/main/rose.jpg" alt="rose" width="200">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=550&height=70&color=b0b34d&duration=4000&lines=Hello+I'm+laevr💕;+Welcome+to+my+profile!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=48&center=true&vCenter=true&width=650&height=70&color=b0b34d&duration=4000&lines=Hello+I'm+laevr💕;+Welcome+to+my+profile!;" />
 </h1>
 
 <!--
